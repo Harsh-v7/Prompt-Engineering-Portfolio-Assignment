@@ -176,3 +176,10 @@
 > Role assignment and context setting significantly improved the quality of the responses in my prompts. In Scenario A, assigning the role of a "fun science teacher" helped the model explain neural networks in a more engaging and child-friendly way by using stories and simple examples. In Scenario B, defining the model as an "experienced career mentor" resulted in a warmer, more professional email that sounded natural and maintained a positive relationship with the company.
 
 > Providing context also helped the model better understand the audience and purpose of each task. For example, specifying that the water bottle brand targeted environmentally conscious Gen Z consumers in Scenario C led to taglines that were more relevant, emotionally appealing, and aligned with the brand's values. Overall, role assignment guided the tone and expertise of the response, while context ensured the content was tailored to the intended audience and objective.
+
+---
+## Part 2: Temperature & Parameter Control
+---
+
+### 2.1 Temperature Experimentation
+
