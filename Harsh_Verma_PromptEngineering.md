@@ -106,3 +106,12 @@
 
 ---
 **Initial Prompt (V1):**
+> Create a tagline for an eco-friendly water bottle.
+
+**V1 Output:**
+> "Sip Smart. Live Green." 🌱💧
+
+---
+
+
+
