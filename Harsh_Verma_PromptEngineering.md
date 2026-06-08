@@ -232,7 +232,7 @@
 > - Creating creative stories, poems, or fictional content.
 > - Brainstorming marketing slogans, brand names, or innovative ideas.
 
-> For this specific task — **The medium temperature** worked best for my mystery story task because it balanced creativity and coherence. The story remained logical and easy to follow while still including interesting and imaginative details. This made the output more engaging without becoming too random or inconsistent.
+For this specific task — **The medium temperature** worked best for my mystery story task because it balanced creativity and coherence. The story remained logical and easy to follow while still including interesting and imaginative details. This made the output more engaging without becoming too random or inconsistent.
 
 ---
 ## Part 3: Strategic Prompting Techniques
