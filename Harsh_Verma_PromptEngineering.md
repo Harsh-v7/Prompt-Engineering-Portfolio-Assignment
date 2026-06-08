@@ -124,6 +124,20 @@
 
 ---
 **Final Prompt (V3):**
-> 
+> You are an award-winning brand strategist and copywriter launching a premium eco-friendly water bottle brand. Create 10 original taglines that are bold, modern, and emotionally engaging. The brand represents sustainability, conscious living, and stylish everyday hydration for Gen Z and young professionals. Each tagline should be no more than 6 words, easy to remember, and strong enough to be used in advertising campaigns, social media, and product packaging. Avoid generic phrases and focus on making people feel that choosing the bottle is a small action that contributes to a bigger positive impact.
+
+**Final Output:**
+> 1. Carry Change. Sip with Purpose.
+> 2. Refill Today. Renew Tomorrow.
+> 3. Hydration That Leaves a Legacy.
+> 4. Small Bottle. Big Impact.
+> 5. Drink Forward. Waste Less.
+> 6. Choose Better, One Sip Ahead.
+> 7. Style Your Thirst, Sustain Tomorrow.
+> 8. Every Refill Rewrites the Future.
+> 9. Own Your Impact. Stay Hydrated.
+> 10. Make Waves, Not Waste.
+
+---
 
 
