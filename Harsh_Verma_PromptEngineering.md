@@ -77,4 +77,23 @@
 
 > [Your Name]
 
+---
+**Final Prompt (V3):**
+> You are an experienced career mentor helping a candidate write a thoughtful and professional response to a job offer. Write a warm, respectful email declining a job offer after accepting another opportunity. Express genuine appreciation for the interview experience, briefly explain the decision without unnecessary details, and maintain a positive relationship with the company. The email should sound natural and personable rather than overly formal, and it should leave the possibility of future collaboration open. Include an appropriate subject line.
 
+**Final Output:**
+> **Subject:** Re: Thank You for the Opportunity
+
+>  Dear Hiring Manager,
+
+> Thank you very much for offering me the opportunity to join your company. I truly appreciate the time, effort, and consideration that you and the team invested throughout the interview process. It was a pleasure learning more about the company, the role, and the exciting work being done by your team.
+
+> After careful thought, I have decided to accept another opportunity that aligns more closely with my current career goals. This was not an easy decision, as I have great respect for your organization and was genuinely excited about the possibility of contributing to your team.
+
+> I am sincerely grateful for your confidence in me and for the positive experience I had throughout the hiring process. I hope to stay connected, and I would welcome the chance to explore opportunities to work together in the future.
+
+> Thank you again for your time and understanding. I wish you and the entire team continued success and growth.
+
+> Warm regards,
+
+> [Your Name]
