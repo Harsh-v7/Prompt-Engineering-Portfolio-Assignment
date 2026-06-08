@@ -39,14 +39,18 @@
 > Write an email declining a job offer.
 
 **V1 Output:**
-Subject: Job Offer Decision
-Dear Hiring Manager,
+> Subject: Job Offer Decision
 
-Thank you for offering me the position at your company. I appreciate the time and effort you and your team invested during the hiring process. After careful consideration, I have decided to decline the job offer at this time. This was a difficult decision, but I have chosen to pursue another opportunity.
+> Dear Hiring Manager,
 
-Thank you again for your confidence in me.
+> Thank you for offering me the position at your company. I appreciate the time and effort you and your team invested during the hiring process. After careful consideration, I have decided to decline the job offer at this time. This was a difficult decision, but I have chosen to pursue another opportunity.
 
-Sincerely,
-[Your Name]
+> Thank you again for your confidence in me.
+
+> Sincerely,
+> [Your Name]
+
+---
+
 
 
