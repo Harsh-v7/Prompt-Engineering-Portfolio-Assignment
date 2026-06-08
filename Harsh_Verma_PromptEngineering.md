@@ -182,4 +182,11 @@
 
 ### 2.1 Temperature Experimentation
 
+**Chosen Task:** Creating a short story opening
+
+**Base Prompt (identical across all tests):**
+> Write a short opening paragraph for a mystery story set in an abandoned house.
+
+---
+
 
